@@ -7,6 +7,7 @@ int boss1show = 0;
 //boss1贴图开关
 int boss1image = 0;
 int boss1hp = 20;
+
  
 int line1_x = WINDOW_WIDTH / 2 - 20;
 int line1_y = boss1h;
